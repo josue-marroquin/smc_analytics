@@ -218,5 +218,4 @@ print(probability)
 - This project is for research and analytics only. It is not financial advice.
 
 ## License
-
-No license has been added yet. Add one before publishing if you want to define how others can use, modify, or distribute the project.
+Apache License 2.0
